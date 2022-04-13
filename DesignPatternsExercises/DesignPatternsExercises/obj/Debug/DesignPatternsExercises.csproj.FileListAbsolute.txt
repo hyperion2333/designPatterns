@@ -1,0 +1,8 @@
+C:\Users\Ioan Maftei\Desktop\design patterns\DesignPatternsExercises\DesignPatternsExercises\bin\Debug\DesignPatternsExercises.exe.config
+C:\Users\Ioan Maftei\Desktop\design patterns\DesignPatternsExercises\DesignPatternsExercises\bin\Debug\DesignPatternsExercises.exe
+C:\Users\Ioan Maftei\Desktop\design patterns\DesignPatternsExercises\DesignPatternsExercises\bin\Debug\DesignPatternsExercises.pdb
+C:\Users\Ioan Maftei\Desktop\design patterns\DesignPatternsExercises\DesignPatternsExercises\obj\Debug\DesignPatternsExercises.csproj.AssemblyReference.cache
+C:\Users\Ioan Maftei\Desktop\design patterns\DesignPatternsExercises\DesignPatternsExercises\obj\Debug\DesignPatternsExercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ioan Maftei\Desktop\design patterns\DesignPatternsExercises\DesignPatternsExercises\obj\Debug\DesignPatternsExercises.csproj.CoreCompileInputs.cache
+C:\Users\Ioan Maftei\Desktop\design patterns\DesignPatternsExercises\DesignPatternsExercises\obj\Debug\DesignPatternsExercises.exe
+C:\Users\Ioan Maftei\Desktop\design patterns\DesignPatternsExercises\DesignPatternsExercises\obj\Debug\DesignPatternsExercises.pdb
